@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawlerApp", "WebCrawlerApp\WebCrawlerApp.csproj", "{C7AEA694-4EBA-4C87-8A7C-D36B9CD6AC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawlerApp.DataAccess", "WebCrawlerApp.DataAccess\WebCrawlerApp.DataAccess.csproj", "{6FEC455C-D2C4-4037-8C24-5CDD5C8A69C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AEA694-4EBA-4C87-8A7C-D36B9CD6AC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AEA694-4EBA-4C87-8A7C-D36B9CD6AC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AEA694-4EBA-4C87-8A7C-D36B9CD6AC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AEA694-4EBA-4C87-8A7C-D36B9CD6AC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEC455C-D2C4-4037-8C24-5CDD5C8A69C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEC455C-D2C4-4037-8C24-5CDD5C8A69C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEC455C-D2C4-4037-8C24-5CDD5C8A69C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEC455C-D2C4-4037-8C24-5CDD5C8A69C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB073F26-1113-4CA6-9908-2BF49EBA7D2C}
+	EndGlobalSection
+EndGlobal
